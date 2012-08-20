@@ -1,0 +1,7 @@
+c:\users\marcus\documents\visual studio 2010\Projects\SquareGenerator\SquareGenerator\SquareGenerator\bin\x86\Debug\SquareGenerator.exe
+c:\users\marcus\documents\visual studio 2010\Projects\SquareGenerator\SquareGenerator\SquareGenerator\bin\x86\Debug\SquareGenerator.pdb
+c:\users\marcus\documents\visual studio 2010\Projects\SquareGenerator\SquareGenerator\SquareGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\marcus\documents\visual studio 2010\Projects\SquareGenerator\SquareGenerator\SquareGenerator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\marcus\documents\visual studio 2010\Projects\SquareGenerator\SquareGenerator\SquareGenerator\obj\x86\Debug\SquareGenerator.exe
+c:\users\marcus\documents\visual studio 2010\Projects\SquareGenerator\SquareGenerator\SquareGenerator\obj\x86\Debug\SquareGenerator.pdb
+C:\Users\Marcus\documents\visual studio 2010\Projects\SquareGenerator\SquareGenerator\SquareGenerator\bin\x86\Debug\Content\texture.xnb

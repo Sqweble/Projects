@@ -1,0 +1,1 @@
+c:\users\marcus\documents\visual studio 2010\Projects\SquareGenerator\SquareGenerator\SquareGeneratorContent\obj\x86\Debug\ResolveAssemblyReference.cache
